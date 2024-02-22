@@ -24,9 +24,11 @@ Bom hotel e funcionários
 
 6. Revise a saída, O resultado vai ser esse abaixo. Observe que o documento é analisado quanto ao sentimento, assim como cada frase . Selecione Frase 1 para mostrar a análise de sentimento dessa frase.
 
-![]()
+![analise de sentimento azure](https://github.com/Penichezito/LanguageStudio-Azure-BootcampDIO/blob/main/inputs/sentimentos-azure.jpg)
 
-![]()
+![resultado feedback 2](https://github.com/Penichezito/LanguageStudio-Azure-BootcampDIO/blob/main/inputs/result2.jpg)
+
+![resultado feedback analise texto](https://github.com/Penichezito/LanguageStudio-Azure-BootcampDIO/blob/main/inputs/result-analise-sentimento.jpg)
 
 
 Observe que há um sentimento geral seguido por pontuações próximas a três categorias: pontuação positiva , pontuação neutra e pontuação negativa . Em cada uma das categorias é atribuída uma pontuação entre 0 e 1. Essas pontuações de confiança indicam a probabilidade do texto fornecido ser um sentimento específico.
